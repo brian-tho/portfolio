@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages HIIII
+## Professional Summary
 
-You can use the [editor on GitHub](https://github.com/brian-tho/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Mechanical Engineer with a bachelors degree from Northeastern University in Boston, Massachusetts. I graduated Magna Cum Laude as a member of the Pi Tau Sigma Honor Society. Outside of class I was involved in other organizations including Northeastern’s American Society of Mechanical Engineers chapter and NU Toys, an engineering club that uses toys to facilitate engineering design and projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have completed three full-time co-ops to diversify and refine my engineering skills outside of university. My first position was as a mechanical engineer at Siemens Healthineers in Walpole, MA, where I worked on machinery and lab equipment in a medical environment. For my second co-op, I was an animatronics engineer at Hasbro Inc. in Pawtucket, RI, where I utilized mechanics, electronics, and programming to create robotic toys. My last co-op was at Starry Inc., a wireless internet startup based in Boston. There I led the effort to create a neighborhood-level antenna enclosure, learned to design for manufacturing, developed test fixtures, and worked with domestic and international vendors. Finally, my capstone team developed a haptically linked robotic arm and exoskeleton to allow users to transmit their motion as a part of Northeastern University’s Avatar XPRIZE Challenge effort.
 
-### Markdown
+Now, I am searching for a full-time position in the Greater Boston Area. I am interested in product design, manufacturing, robotics, vehicles, and more!
+
+# Co-op Experiences 
+
+  ## Starry Inc.
+  # Concealed Antenna Enclosure
+    Objectives
+    Use existing urban antennas in a suburban environment
+    Conceal the antennas to comply with town approved specifications
+    Make the enclosure environment-proof and have adequate air flow
+    Mount the enclosure on top of existing utility poles
+    Challenges
+    Current “Trident” antennas are large and awkwardly shaped to fit in a cylinder, the desired form of the enclosure
+    Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennas     is RF transparent
+    Utility poles have varying diameters and tilts that need to be accounted for in the mount
+    The overall design must be relatively simple to assemble and light enough for one technician to install
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 HELLO
