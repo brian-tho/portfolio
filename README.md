@@ -16,6 +16,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Make the enclosure environment-proof and have adequate air flow
 - Mount the enclosure on top of existing utility poles
 <br>
+
 **Challenges**
 <br>
 - Current Point antennae are large and awkwardly shaped to fit in a cylinder, the desired form of the enclosure
