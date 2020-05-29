@@ -10,10 +10,12 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 ## Starry Inc.
 ### Concealed Antenna Enclosure
 **Objectives**
+<br>
 Use existing urban antennas in a suburban environment
 Conceal the antennas to comply with town approved specifications
 Make the enclosure environment-proof and have adequate air flow
 Mount the enclosure on top of existing utility poles
+<br>
 **Challenges**
 Current “Trident” antennas are large and awkwardly shaped to fit in a cylinder, the desired form of the enclosure
 Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennas     is RF transparent
