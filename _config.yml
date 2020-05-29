@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Brian Thomas
-description: B.S. Mechanical Engineer 2019
+description: B.S. Mechanical Engineering 2019
+github:
+  is_project_page: false
