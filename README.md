@@ -7,10 +7,8 @@ I have completed three full-time co-ops to diversify and refine my engineering s
 Now, I am searching for a full-time position in the Greater Boston Area. I am interested in product design, manufacturing, robotics, vehicles, and more!
 
 # Co-op Experiences 
-<br>
-  ## Starry Inc.
-  <br>
-  # Concealed Antenna Enclosure
+# Starry Inc.
+# Concealed Antenna Enclosure
     Objectives
     Use existing urban antennas in a suburban environment
     Conceal the antennas to comply with town approved specifications
