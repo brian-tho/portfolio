@@ -17,6 +17,7 @@ Make the enclosure environment-proof and have adequate air flow
 Mount the enclosure on top of existing utility poles
 <br>
 **Challenges**
+<br>
 Current “Trident” antennas are large and awkwardly shaped to fit in a cylinder, the desired form of the enclosure
 Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennas     is RF transparent
 Utility poles have varying diameters and tilts that need to be accounted for in the mount
