@@ -24,7 +24,9 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Utility poles have varying diameters and tilts that need to be accounted for in the mount
 - The overall design must be relatively simple to assemble and light enough for one technician to install
 <br>
-<p style="text-align:center;"><img src="starry_point.png" alt="Starry Point"></p>
+<p align="center">
+  <img src="starry_point.png">
+</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 HELLO
