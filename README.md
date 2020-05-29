@@ -6,8 +6,8 @@ I have completed three full-time co-ops to diversify and refine my engineering s
 
 Now, I am searching for a full-time position in the Greater Boston Area. I am interested in product design, manufacturing, robotics, vehicles, and more!
 
-# Co-op Experiences 
-## Starry Inc.
+# **CO-OP EXPERIENCES**
+## **Starry Inc.**
 ### Concealed Antenna Enclosure
 **Objectives**
 <br>
@@ -23,7 +23,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennae     is RF transparent
 - Utility poles have varying diameters and tilts that need to be accounted for in the mount
 - The overall design must be relatively simple to assemble and light enough for one technician to install
-
+![StarryPoint](/images/starry_point.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 HELLO
