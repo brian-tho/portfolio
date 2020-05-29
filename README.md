@@ -23,7 +23,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennae     is RF transparent
 - Utility poles have varying diameters and tilts that need to be accounted for in the mount
 - The overall design must be relatively simple to assemble and light enough for one technician to install
-![StarryPoint](/images/starry_point.png)
+![StarryPoint](starry_point.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 HELLO
