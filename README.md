@@ -57,9 +57,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 ## **Siemens Healthineers**
-<br>
 ### Ceramic Wafer Scanner
-<br>
 **Problem**
 <br>
 
@@ -103,7 +101,6 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 ## **Hasbro**
-<br>
 ### Animatronics
 
 <br>
