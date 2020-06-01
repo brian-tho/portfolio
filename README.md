@@ -187,9 +187,12 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 # **Personal Projects**
 ## **3D Printed Mini Engine Model**  
+
 <br/>
+
 **Goal**  
 
+<br/>
 
 - My aim with this personal project is to independently design a 3D printed model of an engine that demonstrates the basics of the internal combustion engine
 - I also want to improve my skills in SolidWorks by designing the entire system with no outside CAD
