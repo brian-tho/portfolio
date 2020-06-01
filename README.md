@@ -28,6 +28,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
   <img src="starry_point.png">
 </p>
 <br>
+
 **Design**
 <br>
 - Designed multiple possible mounts before settling on the final form
@@ -38,10 +39,11 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Assembled design in-house and confirmed feasibility of one-man assembly
 <br>
 <p align="center">
-  <img src="starry_pole.png">
-  <img src="starry_mount.png">
+  <img src="starry_pole.PNG">
+  <img src="starry_mount.PNG">
 </p>
 <br>
+
 **Test Fixtures**
 <br>
 - Designed and built multiple test fixtures to facilitate testing and assembly of RF products
@@ -50,7 +52,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Used off-the-shelf components where possible and custom machined steel and aluminum where necessary
 <br>
 <p align="center">
-  <img src="starry_board.png">
+  <img src="starry_board.PNG">
 </p>
 <br>
 ## **Siemens Healthineers**
@@ -65,7 +67,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - System resets could take hours to resolve when engineers were not available
 <br>
 <p align="center">
-  <img src="siemens_wafer.png">
+  <img src="siemens_wafer.PNG">
 </p>
 <br>
 **Action**
@@ -76,7 +78,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - I designed the second iteration for the lab and chose to clamp it to the lab table to increase stability and minimize space use
 <br>
 <p align="center">
-  <img src="siemens_labmodel.png">
+  <img src="siemens_labmodel.PNG">
 </p>
 <br>
 **Results**
@@ -86,7 +88,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - I reached out to the lab and they were pleased that it decreased errors and strain by combining weighing and scanning and eliminating typing
 <br>
 <p align="center">
-  <img src="siemens_desk.png">
+  <img src="siemens_desk.PNG">
 </p>
 <br>
 ## **Hasbro**
@@ -111,7 +113,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - I also used programs like Adobe Illustrator, Adobe Premiere, and Sound Forge for graphic design of packaging and audiovisuals for internal use
 <br>
 <p align="center">
-  <img src="hasbro_furby.png">
+  <img src="hasbro_furby.PNG">
 </p>
 <br>
 **Example**
@@ -125,7 +127,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 -After much back and forth with China, child-testing, and cost reducing, Rex will finally be manufactured and sold worldwide
 <br>
 <p align="center">
-  <img src="hasbro_rex.png">
+  <img src="hasbro_rex.PNG">
 </p>
 <br>
 # **Capstone**
@@ -137,7 +139,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Design wearable exoskeleton with same degrees of freedom as robotic arm
 <br>
 <p align="center">
-  <img src="capstone_design.png">
+  <img src="capstone_design.PNG">
 </p>
 <br>
 **Results**
@@ -148,9 +150,9 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Demonstrated exoskeleton at final capstone presentation
 <br>
 <p align="center">
-  <img src="capstone_results.png">
-  <img src="capstone_parts.png">
-  <img src="capstone_screwparts.png">
+  <img src="capstone_results.PNG">
+  <img src="capstone_parts.PNG">
+  <img src="capstone_screwparts.PNG">
 </p>
 <br>
 # **Personal Projects**
@@ -163,7 +165,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - The end product will move like a real engine but be driven by a DC motor 
 <br>
 <p align="center">
-  <img src="personal_motordesign.png">
+  <img src="personal_motordesign.PNG">
 </p>
 <br>
 **Progress and Future Steps**
@@ -175,7 +177,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Due to time and space constraints, I chose a single-cylinder engine, but I would like to scale up in the future with more pistons
 <br>
 <p align="center">
-  <img src="personal_motorparts.png">
+  <img src="personal_motorparts.PNG">
 </p>
 <br>
 # Contact Information
