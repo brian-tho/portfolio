@@ -149,13 +149,13 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 
--This is the FurReal Munchin’ Rex: it is a product I did finishing work on, but I will use it here as an example of the process I would use while developing other products that have yet to be released
--I would be given this toy idea to make based on trending interests; in this case, recently that has been dinosaurs
--I start by determining what movements and sensors to include in the first model, and create a prototype in SolidWorks that I can 3D print and tinker with
--Early models use servo motors to test motions, but eventually I would change over to one DC motor and use cams to translate that one motion into three 
--Cost reduction plays a big role in refining products because although I would like to include arm movements, a gyroscope, or more fur, certain features need to be eliminated to make the target cost
--Once I receive DC motor models from China, I would begin coding various movement and sound sequences and the sensors that trigger them
--After much back and forth with China, child-testing, and cost reducing, Rex will finally be manufactured and sold worldwide
+- This is the FurReal Munchin’ Rex: it is a product I did finishing work on, but I will use it here as an example of the process I would use while developing other products that have yet to be released
+- I would be given this toy idea to make based on trending interests; in this case, recently that has been dinosaurs
+- I start by determining what movements and sensors to include in the first model, and create a prototype in SolidWorks that I can 3D print and tinker with
+- Early models use servo motors to test motions, but eventually I would change over to one DC motor and use cams to translate that one motion into three 
+- Cost reduction plays a big role in refining products because although I would like to include arm movements, a gyroscope, or more fur, certain features need to be eliminated to make the target cost
+- Once I receive DC motor models from China, I would begin coding various movement and sound sequences and the sensors that trigger them
+- After much back and forth with China, child-testing, and cost reducing, Rex will finally be manufactured and sold worldwide
 
 <br>
 <p align="center">
