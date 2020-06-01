@@ -183,16 +183,13 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="capstone_parts.PNG">
   <img src="capstone_screwparts.PNG">
 </p>
-
 <br>
 
 # **Personal Projects**
 ## **3D Printed Mini Engine Model**
 
 <br>
-
 **Goal**
-
 <br>
 
 - My aim with this personal project is to independently design a 3D printed model of an engine that demonstrates the basics of the internal combustion engine
