@@ -150,14 +150,14 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 <p align="center">
   <img src="hasbro_rex.PNG">
 </p>
-<br>
+<br/>
 
 # **Capstone**
 ## **Avatar XPRIZE Capstone**
-<br>
+<br/>
 
 **Objectives**
-<br>
+<br/>
 
 - Create a haptically linked robotic arm and exoskeleton system to transmit human motion remotely
 - Design wearable exoskeleton with same degrees of freedom as robotic arm
@@ -165,32 +165,31 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 <p align="center">
   <img src="capstone_design.PNG">
 </p>
-<br>
+<br/>
 
 **Results**
 
-<br>
+<br/>
 
 - Designed 3D printed exoskeleton with four degrees of freedom
 - Three DoF in shoulder meet at one point to simulate ball and socket joint
 - Integrated motors and encoders into housings to transmit position and receive haptic feedback for each DoF
 - Demonstrated exoskeleton at final capstone presentation
 
-<br>
+<br/>
 
 <p align="center">
   <img src="capstone_results.PNG">
   <img src="capstone_parts.PNG">
   <img src="capstone_screwparts.PNG">
 </p>
-<br>
+<br/>
 
 # **Personal Projects**
-## **3D Printed Mini Engine Model**
+## **3D Printed Mini Engine Model**  
+<br/>
+**Goal**  
 
-`<br>`
-**Goal**
-`<br>`
 
 - My aim with this personal project is to independently design a 3D printed model of an engine that demonstrates the basics of the internal combustion engine
 - I also want to improve my skills in SolidWorks by designing the entire system with no outside CAD
