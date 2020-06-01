@@ -1,3 +1,12 @@
+## Navagation
+- [Professional Summary](###Professional-Summary)
+-[CO-OP EXPERIENCES](###CO-OP-EXPERIENCES)
+  -[Starry Inc.](###Stary-Inc.)
+  -[Siemens Healthineers](###Siemens-Healthineers)
+  -[Hasbro](###Hasbro)
+-[Capstone](###Capstone)
+-[Personal Projects](###Personal-Projects)
+
 ## Professional Summary
 
 I am a Mechanical Engineer with a bachelors degree from Northeastern University in Boston, Massachusetts. I graduated Magna Cum Laude as a member of the Pi Tau Sigma Honor Society. Outside of class I was involved in other organizations including Northeastern’s American Society of Mechanical Engineers chapter and NU Toys, an engineering club that uses toys to facilitate engineering design and projects.
