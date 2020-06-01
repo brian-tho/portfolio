@@ -57,15 +57,10 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 ## **Siemens Healthineers**
-
 <br>
-
 ### Ceramic Wafer Scanner
-
 <br>
-
 **Problem**
-
 <br>
 
 - Lab technicians had to manually enter serial numbers on ceramic wafers after weighing them
@@ -81,7 +76,6 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 **Action**
-
 <br>
 
 - I designed a lab fixture that holds a barcode scanner with vertical and horizontal adjustability so that it can accommodate any future balance
@@ -109,9 +103,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 ## **Hasbro**
-
 <br>
-
 ### Animatronics
 
 <br>
@@ -218,7 +210,6 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 <br>
 
 **Progress and Future Steps**
-
 <br>
 
 - As of now, the engine block, crankshaft, piston, and connecting rod have been printed
