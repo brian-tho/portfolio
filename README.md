@@ -55,16 +55,24 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
   <img src="starry_board.PNG">
 </p>
 <br>
+
 ## **Siemens Healthineers**
+
 <br>
+
 ### Ceramic Wafer Scanner
+
 <br>
+
 **Problem**
+
 <br>
+
 - Lab technicians had to manually enter serial numbers on ceramic wafers after weighing them
 - Serial numbers were often entered incorrectly, requiring a system reset
 - The process of weighing and then typing slowed down production
 - System resets could take hours to resolve when engineers were not available
+
 <br>
 <p align="center">
   <img src="siemens_wafer.PNG">
@@ -123,6 +131,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 **Competencies**
 
 <br>
+
 - My mechanical background was helpful in creating over 50 unique parts in SolidWorks like gears and cams
 - These virtual models translated into 3-D printing and laser cutting for rapid prototyping
 - With physical materials, I had the opportunity to use power tools like a Dremel, drill press, and lathe, along with regular hand tools
