@@ -81,6 +81,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
   <img src="siemens_labmodel.PNG">
 </p>
 <br>
+
 **Results**
 <br>
 - The scanner eliminated all manual data entry, so no more system resets are needed
@@ -96,6 +97,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 Due to NDA restrictions I can only share a limited amount of what I did, but here are a few key points summarizing my overall experience in this position.
 <br>
+
 **Objectives**
 <br>
 - The purpose of Hasbro’s Animatronics department is to create fun, interactive toys that push the boundaries of what a kid’s product can do
@@ -103,6 +105,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - As a member of an eight person team responsible for hundreds of millions of dollars in revenue, I developed new ideas into working models and continued progress on projects already in motion
 - The following slides will detail some of my competencies that I used on animatronic products and then an example of the type of product I worked on 
 <br>
+
 **Competencies**
 <br>
 - My mechanical background was helpful in creating over 50 unique parts in SolidWorks like gears and cams
@@ -116,6 +119,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="hasbro_furby.PNG">
 </p>
 <br>
+
 **Example**
 <br>
 -This is the FurReal Munchin’ Rex: it is a product I did finishing work on, but I will use it here as an example of the process I would use while developing other products that have yet to be released
@@ -130,11 +134,14 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="hasbro_rex.PNG">
 </p>
 <br>
+
 # **Capstone**
 ## **Avatar XPRIZE Capstone**
 <br>
+
 **Objectives**
 <br>
+
 - Create a haptically linked robotic arm and exoskeleton system to transmit human motion remotely
 - Design wearable exoskeleton with same degrees of freedom as robotic arm
 <br>
@@ -142,22 +149,31 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="capstone_design.PNG">
 </p>
 <br>
+
 **Results**
+
 <br>
+
 - Designed 3D printed exoskeleton with four degrees of freedom
 - Three DoF in shoulder meet at one point to simulate ball and socket joint
 - Integrated motors and encoders into housings to transmit position and receive haptic feedback for each DoF
 - Demonstrated exoskeleton at final capstone presentation
+
 <br>
+
 <p align="center">
   <img src="capstone_results.PNG">
   <img src="capstone_parts.PNG">
   <img src="capstone_screwparts.PNG">
 </p>
+
 <br>
+
 # **Personal Projects**
 ## **3D Printed Mini Engine Model**
+
 <br>
+
 **Goal**
 <br>
 - My aim with this personal project is to independently design a 3D printed model of an engine that demonstrates the basics of the internal combustion engine
@@ -168,6 +184,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="personal_motordesign.PNG">
 </p>
 <br>
+
 **Progress and Future Steps**
 <br>
 - As of now, the engine block, crankshaft, piston, and connecting rod have been printed
@@ -180,8 +197,10 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
   <img src="personal_motorparts.PNG">
 </p>
 <br>
+
 # Contact Information
 <br>
+
 [LinkedIn](www.linkedin.com/in/briantho)
 <br>
 Email: contact@briantho.com
