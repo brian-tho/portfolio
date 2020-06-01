@@ -1,7 +1,7 @@
 ## Navagation
 - [Professional Summary](#Professional-Summary)
 - [CO-OP EXPERIENCES](#CO-OP-EXPERIENCES)
-  - [Starry Inc.](#Starry-Inc.)
+  - [Starry Inc.](#Starry-Inc)
   - [Siemens Healthineers](#Siemens-Healthineers)
   - [Hasbro](#Hasbro)
 - [Capstone](#Capstone)
