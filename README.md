@@ -1,11 +1,11 @@
 ## Navagation
-- [Professional Summary](###Professional Summary)
-- [CO-OP EXPERIENCES](###CO-OP EXPERIENCES)
-  - [Starry Inc.](###Stary-Inc.)
-  - [Siemens Healthineers](###Siemens Healthineers)
+- [Professional Summary](###Professional%201%20Summary)
+- [CO-OP EXPERIENCES](###CO-OP%201%20EXPERIENCES)
+  - [Starry Inc.](###Stary%201%20Inc.)
+  - [Siemens Healthineers](###Siemens%201%20Healthineers)
   - [Hasbro](###Hasbro)
 - [Capstone](###Capstone)
-- [Personal Projects](###Personal Projects)
+- [Personal Projects](###Personal%201%20Projects)
 
 ## Professional Summary
 
