@@ -141,7 +141,8 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Demonstrated exoskeleton at final capstone presentation  
 
 <p align="center">
-  <img src="capstone_results.PNG" width="600px">
+  <img src="capstone_pres.PNG" width="600px">
+  <img src="capstone_mount.PNG" width="600px">
   <img src="capstone_parts.PNG" width="600px">
   <img src="capstone_screwparts.PNG" width="600px">
 </p>  
@@ -165,7 +166,8 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - I would like to incorporate a Roots type supercharger, which would also be driven off the crankshaft
 - Due to time and space constraints, I chose a single-cylinder engine, but I would like to scale up in the future with more pistons  
 <p align="center">
-  <img src="personal_motorparts.PNG" width="600px">
+  <img src="personal_engine.PNG" width="600px">
+  <img src="personal_roots.PNG" width="600px">
 </p>  
 
 # Contact Information  
