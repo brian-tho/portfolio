@@ -1,11 +1,11 @@
 ## Navagation
-- [Professional Summary](#Professional-Summary)
-- [CO-OP EXPERIENCES](#CO-OP-EXPERIENCES)
-  - [Starry Inc.](#Starry-Inc)
-  - [Siemens Healthineers](#Siemens-Healthineers)
-  - [Hasbro](#Hasbro)
-- [Capstone](#Capstone)
-- [Personal Projects](#Personal-Projects)
+- [Professional Summary](#professional-summary)
+- [CO-OP EXPERIENCES](#co-op-experiences)
+  - [Starry Inc.](#starry-inc)
+  - [Siemens Healthineers](#siemens-healthineers)
+  - [Hasbro](#hasbro)
+- [Capstone](#capstone)
+- [Personal Projects](#personal-projects)
 
 ## Professional Summary
 
@@ -229,8 +229,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 </p>
 <br>
 
-# Contact Information
-
+# Contact Information 
 <br>
 
 [LinkedIn](www.linkedin.com/in/briantho)
