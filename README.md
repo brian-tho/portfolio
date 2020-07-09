@@ -30,7 +30,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Utility poles have varying diameters and tilts that need to be accounted for in the mount
 - The overall design must be relatively simple to assemble and light enough for one technician to install  
 <p align="center">
-  <img src="starry_point.png" width="600px">
+  <img src="starry_point.png" width="300px">
 </p>  
 
 **Design**  
@@ -43,7 +43,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Assembled design in-house and confirmed feasibility of one-man assembly  
 
 <p align="center">
-  <img src="starry_pole.PNG" width="600px">
+  <img src="starry_pole.PNG" width="400px">
   <img src="starry_mount.PNG" width="600px">
 </p>  
 
@@ -66,7 +66,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - System resets could take hours to resolve when engineers were not available  
 
 <p align="center">
-  <img src="siemens_wafer.PNG" width="600px">
+  <img src="siemens_wafer.PNG" width="400px">
 </p>  
 
 **Action**  
@@ -130,7 +130,8 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Create a haptically linked robotic arm and exoskeleton system to transmit human motion remotely
 - Design wearable exoskeleton with same degrees of freedom as robotic arm  
 <p align="center">
-  <img src="capstone_design.PNG" width="600px">
+  <img src="capstone_arm.PNG" width="600px">
+  img src="capstone_skeleton.PNG" width="600px">
 </p>  
 
 **Results**  
@@ -141,8 +142,8 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Demonstrated exoskeleton at final capstone presentation  
 
 <p align="center">
-  <img src="capstone_pres.PNG" width="600px">
-  <img src="capstone_mount.PNG" width="600px">
+  <img src="capstone_pres.PNG" width="400px">
+  <img src="capstone_mount.PNG" width="500px">
   <img src="capstone_parts.PNG" width="600px">
   <img src="capstone_screwparts.PNG" width="600px">
 </p>  
