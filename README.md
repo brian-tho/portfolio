@@ -131,7 +131,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Design wearable exoskeleton with same degrees of freedom as robotic arm  
 <p align="center">
   <img src="capstone_arm.PNG" width="600px">
-  img src="capstone_skeleton.PNG" width="600px">
+  <img src="capstone_skeleton.PNG" width="600px">
 </p>  
 
 **Results**  
