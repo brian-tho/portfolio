@@ -34,7 +34,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - The overall design must be relatively simple to assemble and light enough for one technician to install
 <br>
 <p align="center">
-  <img src="starry_point.png">
+  <img src="starry_point.png" width="600px">
 </p>
 <br>
 
@@ -48,8 +48,8 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Assembled design in-house and confirmed feasibility of one-man assembly
 <br>
 <p align="center">
-  <img src="starry_pole.PNG">
-  <img src="starry_mount.PNG">
+  <img src="starry_pole.PNG" width="600px">
+  <img src="starry_mount.PNG" width="600px">
 </p>
 <br>
 
@@ -61,7 +61,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Used off-the-shelf components where possible and custom machined steel and aluminum where necessary
 <br>
 <p align="center">
-  <img src="starry_board.PNG">
+  <img src="starry_board.PNG" width="600px">
 </p>
 <br>
 
@@ -77,7 +77,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 
 <br>
 <p align="center">
-  <img src="siemens_wafer.PNG">
+  <img src="siemens_wafer.PNG" width="600px">
 </p>
 
 <br>
@@ -92,7 +92,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 
 <br>
 <p align="center">
-  <img src="siemens_labmodel.PNG">
+  <img src="siemens_labmodel.PNG" width="600px">
 </p>
 <br>
 
@@ -105,7 +105,7 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 <p align="center">
-  <img src="siemens_desk.PNG">
+  <img src="siemens_desk.PNG" width="600px">
 </p>
 <br>
 
@@ -139,7 +139,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 <p align="center">
-  <img src="hasbro_furby.PNG">
+  <img src="hasbro_furby.PNG" width="600px">
 </p>
 <br>
 
@@ -157,7 +157,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 <p align="center">
-  <img src="hasbro_rex.PNG">
+  <img src="hasbro_rex.PNG" width="600px">
 </p>
 <br/>
 
@@ -172,7 +172,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - Design wearable exoskeleton with same degrees of freedom as robotic arm
 <br>
 <p align="center">
-  <img src="capstone_design.PNG">
+  <img src="capstone_design.PNG" width="600px">
 </p>
 <br/>
 
@@ -188,9 +188,9 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 <br/>
 
 <p align="center">
-  <img src="capstone_results.PNG">
-  <img src="capstone_parts.PNG">
-  <img src="capstone_screwparts.PNG">
+  <img src="capstone_results.PNG" width="600px">
+  <img src="capstone_parts.PNG" width="600px">
+  <img src="capstone_screwparts.PNG" width="600px">
 </p>
 <br/>
 
@@ -209,7 +209,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 <p align="center">
-  <img src="personal_motordesign.PNG">
+  <img src="personal_motordesign.PNG" width="600px">
 </p>
 
 <br>
@@ -225,7 +225,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 <p align="center">
-  <img src="personal_motorparts.PNG">
+  <img src="personal_motorparts.PNG" width="600px">
 </p>
 <br>
 
