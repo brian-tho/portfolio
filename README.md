@@ -110,13 +110,12 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <br>
 
 ## **Hasbro**
-### Animatronics
-
+### Animatronics 
 <br>
-Due to NDA restrictions I can only share a limited amount of what I did, but here are a few key points summarizing my overall experience in this position.
+Due to NDA restrictions I can only share a limited amount of what I did, but here are a few key points summarizing my overall experience in this position. 
 <br>
 
-**Objectives**
+**Objectives** 
 <br>
 
 - The purpose of Hasbro’s Animatronics department is to create fun, interactive toys that push the boundaries of what a kid’s product can do
@@ -126,8 +125,7 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 
 <br>
 
-**Competencies**
-
+**Competencies** 
 <br>
 
 - My mechanical background was helpful in creating over 50 unique parts in SolidWorks like gears and cams
@@ -138,13 +136,8 @@ Due to NDA restrictions I can only share a limited amount of what I did, but her
 - I also used programs like Adobe Illustrator, Adobe Premiere, and Sound Forge for graphic design of packaging and audiovisuals for internal use
 
 <br>
-<p align="center">
-  <img src="hasbro_furby.PNG" width="600px">
-</p>
-<br>
 
-**Example**
-
+**Example** 
 <br>
 
 - This is the FurReal Munchin’ Rex: it is a product I did finishing work on, but I will use it here as an example of the process I would use while developing other products that have yet to be released
