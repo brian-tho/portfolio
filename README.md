@@ -22,7 +22,9 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 - Conceal the antennae to comply with town approved specifications
 - Make the enclosure environment-proof and have adequate air flow
 - Mount the enclosure on top of existing utility poles  
+
 **Challenges**  
+
 - Current Point antennae are large and awkwardly shaped to fit in a cylinder, the desired form of the enclosure
 - Enclosure must be sturdy enough for  high wind speeds, rain, and snow, and also be formed so that the wall in front of the antennae     is RF transparent
 - Utility poles have varying diameters and tilts that need to be accounted for in the mount
@@ -30,7 +32,9 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <p align="center">
   <img src="starry_point.png" width="600px">
 </p>  
+
 **Design**  
+
 - Designed multiple possible mounts before settling on the final form
 - Created custom steel and aluminum frame to hold up to 4 antenna modules, with multiple mounting holes to allow ±10° tilt and adjustable pole top mount for any diameter pole
 - Collaborated with Chinese manufacturer to refine an injection molded shroud that has a specific thickness for RF transparency
@@ -84,8 +88,10 @@ Now, I am searching for a full-time position in the Greater Boston Area. I am in
 <p align="center">
   <img src="siemens_desk.PNG" width="600px">
 </p>  
+
 ## **Hasbro**
 ### Animatronics  
+
 Due to NDA restrictions I can only share a limited amount of what I did, but here are a few key points summarizing my overall experience in this position.  
 
 **Objectives**  
